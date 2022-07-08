@@ -1,6 +1,6 @@
 ## Olá 👋;
 
-## 🚀Foram realizados 2 projetos, "Contador" e "To do List", o que foi realizado:
+## 🚀Foram realizados 2 projetos, "Contador" e "To do List":
 
 ## ▶ Projeto 01👇
 
