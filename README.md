@@ -16,7 +16,7 @@
 
 ### 🚀 Criação um campo input de texto e um botão para adicionar a tarefa à lista;
 
-### 🚀 Ao pressionar o botão for o texto aparece na lista com um checkbox ao lado;
+### 🚀 Quando pressionar o botão, deve aparecer na lista o texto com um checkbox ao lado;
 
 ### 🚀 Quando selecionado o checkbox, o item correspondente deve ficar com o texto riscado
 
