@@ -33,6 +33,7 @@ function addEventos2() {
     .getElementById("subtrair-color")
     .addEventListener("click", decrement);
 }
+
 window.addEventListener("load", addEventos2);
 
 /* Laços de Repetição */
